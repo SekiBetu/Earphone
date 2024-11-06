@@ -33,6 +33,7 @@
 - ⭐ 华为 FreeBuds 5i：中正，哈曼曲线
 - ⭐ 丽耳EarFun AirPro4：蓝牙协议齐全，音质还行
 - ⭐⭐ OPPO Enco X3：降噪音质无敌
+- ⭐⭐ 松下AZ80：2
 
 ## 有线头戴
 
