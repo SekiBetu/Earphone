@@ -24,18 +24,18 @@
 | 潜韵 | 潜水专家99 Pro | 入门，清汤寡水，糊 | - |
 | 水月雨 (MOONDROP) | 银色飞船 (Space Ship) | 解析力比潜99强，半入耳漏音，塞很紧不舒服 | - |
 | 脑放君 (NFHIFI) | 脑66Pro | 和潜99差不多，做工质量不行，商家跑路，绝版 | - |
-| 锦瑟香也 (The Fragrant Zither) | TFZ KING KONG | 100元动次打次代表 | ⭐ |
+| 锦瑟香也 (The Fragrant Zither) | TFZ KING KONG | 100价位动次打次代表 | - |
 | 兴戈 (SIMGOT) | EW200 | 解析力强，吊打上述耳机，但高频刺耳 | - |
 | 绯乐 (Feaulle) | 涟 (LIAN) | 中正，白开水 | ⭐ |
 | 飞傲 (FiiO) | FD11 | 动次打次，调音有特色，不错 | ⭐⭐ |
-| EPZ | Q1 PRO | 一耳朵明亮，但总感觉差点意思 | - |
-| 弱水时砂 (Rose Technics / RoseSelsa) | 静海 | 纵向声场大、均衡、300以内最好 | ⭐ |
+| EPZ | Q1 PRO | 一耳朵明亮，高频稍显刺耳 | - |
+| 弱水时砂 (Rose Technics / RoseSelsa) | 静海 | 纵向声场大、均衡、300以内真神 | ⭐ |
 | 兴戈 (SIMGOT) | EA500 LM | 500价位白开水，均衡 | - |
 | 讴极声学 (Ultiage) | UG-7 (私人定制 / 一圈三铁) | 透亮不刺耳，商家跑路，绝版 | - |
 | 达音科 (DUNU) | Titan S | 白开水，听不了一点 | - |
 | 达音科 (DUNU) | Titan S2 | 500价位均衡，低频比上代好，高频稍显刺耳 | ⭐ |
 | 达音科 (DUNU) | 隼U (FALCON ULTRA) | 1000价位一耳朵明亮，高频刺耳，不耐听 | - |
-| 绯乐 (Feaulle) | 诗 (Lyric) | 耐听，Hufi | ⭐⭐ |
+| 绯乐 (Feaulle) | 诗 (Lyric) | 素质不错，耐听，HuFi | ⭐⭐ |
 
 ## 无线入耳
 
@@ -43,9 +43,9 @@
 | ----------- | ----------- | ----------- | :-----------: |
 | OPPO | OPPO Enco Air3 | 睡觉塞 | ⭐ |
 | 华为 (HUAWEI) | FreeBuds 5i | 中正，哈曼曲线 | - |
-| 丽耳 (EarFun) | Air Pro4 | 蓝牙协议齐全，音质还行 | - |
+| 丽耳 (EarFun) | Air Pro4 | 蓝牙协议齐全，音质不错 | ⭐ |
 | 华为 (HUAWEI) | FreeBuds 6i | 千元内降噪无敌 | - |
-| OPPO | OPPO Enco X3 | 千元降噪音质无敌 | ⭐⭐ |
+| OPPO | OPPO Enco X3 | 千元真神 | ⭐⭐ |
 | 松下 (Panasonic) 子公司 Technics | EAH-AZ80 | 两千内音质无敌 | ⭐⭐ |
 
 ## 有线头戴
@@ -61,7 +61,7 @@
 | 品牌 | 型号 | 评价 | 推荐指数 |
 | ----------- | ----------- | ----------- | :-----------: |
 | 漫步者 (EDIFIER) | W820NB | 无线头戴最低门槛 | - |
-| 索尼 (Sony) | ULT WEAR | 千元内最好，可调试功能多 | - |
+| 索尼 (Sony) | ULT WEAR | 千元内最好，可调试功能多 | ⭐ |
 | 索尼 (Sony) | WH-1000XM4 | 无线头戴音质标杆 | ⭐ |
 
 ## 音响
