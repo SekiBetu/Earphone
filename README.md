@@ -23,7 +23,7 @@
 | 脑放君 (NFHIFI) | 脑66Pro | 和潜99差不多，做工质量不行 | - |
 | 锦瑟香也 (The Fragrant Zither) | TFZ KING KONG | 100元动次打次代表 | ⭐ |
 | 兴戈 (SIMGOT) | EW200 | 解析力强，吊打上述耳机，但高频刺耳 | - |
-| 绯乐 (Feaulle) | 涟(LIAN) | 中正，白开水 | ⭐ |
+| 绯乐 (Feaulle) | 涟 (LIAN) | 中正，白开水 | ⭐ |
 | 飞傲 (FiiO) | FD11 | 动次打次，调音有特色，不错 | ⭐⭐ |
 | EPZ | Q1 PRO | 一耳朵明亮，但总感觉差点意思 | - |
 | 弱水时砂 (Rose Technics / RoseSelsa) | 静海 | 纵向声场大、均衡、300以内最好 | ⭐ |
