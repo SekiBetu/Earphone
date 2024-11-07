@@ -36,12 +36,14 @@
 
 ## 无线入耳
 
-- ⭐ OPPO Enco Air3：睡觉塞
-- 华为 FreeBuds 5i：中正，哈曼曲线
-- 丽耳(EarFun) Air Pro4：蓝牙协议齐全，音质还行
-- 华为 FreeBuds 6i：千元内降噪无敌
-- ⭐⭐ OPPO Enco X3：降噪音质无敌
-- ⭐⭐ 松下AZ80：两千内无敌
+| 品牌 | 型号 | 评价 | 星级 |
+| ----------- | ----------- | ----------- | :-----------: |
+| OPPO | OPPO Enco Air3 | 睡觉塞 | ⭐ |
+| 华为(HUAWEI) | FreeBuds 5i | 中正，哈曼曲线 | - |
+| 丽耳(EarFun) | Air Pro4 | 蓝牙协议齐全，音质还行 | - |
+| 华为(HUAWEI) | FreeBuds 6i | 千元内降噪无敌 | - |
+| OPPO | OPPO Enco X3 | 千元降噪音质无敌 | ⭐⭐ |
+| 松下(Panasonic) Technics品牌 | EAH-AZ80 | 两千内音质无敌 | ⭐⭐ |
 
 ## 有线头戴
 
